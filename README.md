@@ -9,8 +9,8 @@ You can download the app-release.apk file, install it and run pics_online on you
 
 <img src="https://user-images.githubusercontent.com/45164745/153407360-6a24410c-cab2-41f1-92eb-39a910e8fe78.png" height="300">
 
-_Username: admin_
-_Password: admin123_
+<i>Username: admin</i> 
+<i>Password: admin123</i>
 As mentioned in the assignment I have checked the user credentials against a hardcoded value. If a wrong username and password is entered then an error message will be displayed.
 
 <img src="https://user-images.githubusercontent.com/45164745/153407806-61adc949-1e88-46c9-a252-dd78de3419b5.png" height="300">
