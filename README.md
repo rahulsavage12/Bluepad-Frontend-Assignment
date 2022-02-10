@@ -6,7 +6,8 @@ You can download the app-release.apk file, install it and run pics_online on you
 
 ****Page 1: Login Page****
 
-![image](https://user-images.githubusercontent.com/45164745/153407360-6a24410c-cab2-41f1-92eb-39a910e8fe78.png| height=100)
+
+<img src="https://user-images.githubusercontent.com/45164745/153407360-6a24410c-cab2-41f1-92eb-39a910e8fe78.png" height="100">
 
 _Username: admin
 Password: admin123_
