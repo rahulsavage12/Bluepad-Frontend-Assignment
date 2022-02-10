@@ -16,8 +16,8 @@ As mentioned in the assignment I have checked the user credentials against a har
 <img src="https://user-images.githubusercontent.com/45164745/153407806-61adc949-1e88-46c9-a252-dd78de3419b5.png" height="300">
 <img src="https://user-images.githubusercontent.com/45164745/153407818-93908e99-088c-49e6-914f-158ce033d958.png" height="300">
  
- 
 ****Page 2: Home Page****
+
 <img src="https://user-images.githubusercontent.com/45164745/153407927-1f0ab05f-a2fc-4453-a59a-31be9d78b507.png" height="300">
  
 The Home page has an appbar with the app name and a logout button. Initially, the picsum api returns 10 photos. When the user scrolls to the bottom of the page, the event listener retrieves 10 more images from the API, achieving an endless scroll with a pagination of 10 images at a time.
